@@ -1,0 +1,29 @@
+id1,id,SL,week,year,state,city,disctrict,cases,death,st_date,end_date,location,lat,lon
+1,756,756,49,2015,Madhya Pradesh,Bhind,Bhind,10,0,27-11-2015 00:00,05-12-2015 00:00,"Keeratpura,  SC Nonera",26.4264311,78.3059933
+2,20,20,3,2014,Madhya Pradesh,Burhanpur,Indore,40,0,14-01-2014 00:00,15-01-2014 00:00,"Khani,Fofnar",21.3145021,76.2180095
+3,1462,1462,44,2018,Madhya Pradesh,Guna,Guna,10,1,25-10-2018 00:00,,  Guna  Urban,24.6439598,77.3089289
+4,987,987,24,2016,Madhya Pradesh,Hoshangaba d,Hoshangabad,9,0,26-05-2016 00:00,,"  Kediahir,  SHC  Khoksar,  Block Dolariya",22.592446,77.6384862
+5,495,495,39,2015,Madhya Pradesh,Katni,Katni,9,0,19-09-2015 00:00,24-09-2015 00:00,"Murwari, PHC Dheemarkheda  CHC Umariapan",23.5123542,80.2717265
+6,288,288,31,2013,Madhya Pradesh,Khandwa,Indore,24,0,26-07-2013 00:00,31-07-2013 00:00,"Singaji  Thermal  power Plant  Mundi,  ",22.1005829,76.5317675
+7,714,714,47,2014,Madhya Pradesh,Khandwa,Indore,10,0,22-11-2014 00:00,23-11-2014 00:00,"Bhavsinghpura,  PHC Jawar",21.6954033,76.1406925
+8,596,596,42,2015,Madhya Pradesh,Khandwa,Indore,11,0,14-10-2015 00:00,16-10-2015 00:00, Khandwa,21.8314037,76.3497612
+9,1498,1498,45,2020,Madhya Pradesh,Khargon,West Nimar,22,0,24-10-2020 00:00,,"Khargone,  Block  Kharode,  Kasrawad and Maheshwar",22.1250117,75.609402
+10,198,198,24,2013,Madhya Pradesh,Mandla,Mandla,195,2,11-06-2013 00:00,12-06-2013 00:00," Bakori, Bamhani",22.4770863,80.3686488
+11,145,145,20,2014,Madhya Pradesh,Mandla,Mandla,50,0,12-05-2014 00:00,18-05-2014 00:00,"Tikritola, Bamhani",22.4759338,80.3666572
+12,1233,1233,36,2016,Madhya Pradesh,Morena,Morena,154,0,09-05-2016 00:00,09-07-2016 00:00,"  Noorpur, PHC  Sumabali, CHC  Joura",26.3740493,77.890311
+13,1285,1285,38,2016,Madhya Pradesh,Morena,Morena,25,0,20-09-2016 00:00,20-09-2016 00:00,  Faddipura  SHC Dikhatpura    CHC    Noorabad,26.5715248,77.9881401
+14,1151,1151,33,2017,Madhya Pradesh,Morena,Morena,18,0,08-11-2017 00:00,16-08-2017 00:00," Gunapura, SC Brajgadi, CHC  Pahadgarh",26.4239562,77.590597
+15,1178,1178,34,2018,Madhya Pradesh,Morena,Morena,17,0,20-08-2018 00:00,23-08-2018 00:00," Kishanpur, SHC   Jigani,   CHC   Noorabad",26.6714118,78.3715074
+16,98,98,17,2014,Madhya Pradesh,Narsinghpur,Narsimhapur,63,0,18-04-2014 00:00,,"Kanhargaon,Salichoka",22.8323348,78.6749352
+17,1199,1199,35,2016,Madhya Pradesh,Nimach,Neemuch,10,0,09-04-2016 00:00,09-04-2016 00:00," Tumda, SC Ankli, PHC  Mahaghar,  Block  Manasa",24.4742694,75.1417395
+18,1480,1480,45,2016,Madhya Pradesh,Nimach,Neemuch,11,0,10-01-2016 00:00,," Bhatkhedi, Block Manasa",24.4379011,75.2726975
+19,1379,1379,41,2016,Madhya Pradesh,Rajgarh,Rajgarh,41,0,10-10-2016 00:00,10-12-2016 00:00," Moyi, SC Khanpura, PHC  Bhaisana,  CHC  Boda,  Block  Narsaingarh",23.6595052,76.8120095
+20,62,62,13,2016,Madhya Pradesh,Sehore,Sehore,142,0,28-03-2016 00:00,29-03-2016 00:00," VillageSemri,Rehti",22.7442168,77.4432623
+21,1053,1053,28,2017,Madhya Pradesh,Sehore,Sehore,49,0,07-12-2017 00:00,13-07-2017 00:00,"    Bazaargaon, SC  Silkheda/Ahmadpur,  Block  Shyampur",23.4149152,77.0818524
+22,1106,1106,31,2017,Madhya Pradesh,Sehore,Sehore,32,0,08-02-2017 00:00,08-02-2017 00:00," Amla Navabaad, Sc Kheri, PHC/ CHC Ichhawar",23.0326225,77.017871
+23,421,421,36,2014,Madhya Pradesh,Shivpuri,Shivpuri,212,5,01-09-2014 00:00,," Jhanda, Narwar,  Shivpuri",25.6526369,78.2048878
+24,429,429,36,2015,Madhya Pradesh,Shivpuri,Shivpuri,15,0,01-09-2015 00:00,,Shivpuri,25.4320478,77.6643815
+25,469,469,37,2015,Madhya Pradesh,Shivpuri,Shivpuri,30,0,01-09-2015 00:00,,Shivpuri,25.4320478,77.6643815
+26,535,535,39,2015,Madhya Pradesh,Shivpuri,Shivpuri,38,0,01-09-2015 00:00,,Shivpuri,25.4320478,77.6643815
+27,1140,1140,31,2021,Madhya Pradesh,Burhanpur,Burhanpur,15,0,12-08-2021 00:00,,"Urban  Nepanagar  (Ward  No  10,  19) CHC Nepanagar, Block-Khaknar, District Burhanpur",21.3683931,76.5685644
+28,1141,1141,47,2022,Madhya Pradesh,Indore,Indore,5,0,19-11-2022,," Surveillance Unit (DSU), Indore",21.307373,76.3637

@@ -1,0 +1,37 @@
+id1,id,SL,week,year,state,city,disctrict,cases,death,st_date,end_date,location,lat,lon
+1,692,692,45,2012,Jharkhand,Bokaro,Bokaro,27,0,14-10-2012 00:00,,Bokaro,23.6692956,86.151112
+2,1328,1328,39,2019,Jharkhand,Bokaro,Bokaro,6,0,20-09-2019 00:00,27-09-2019 00:00,"CHC  Chas,  Block  Chas",23.6360442,86.1654721
+3,1368,1368,40,2019,Jharkhand,Bokaro,Bokaro,8,0,09-04-2019 00:00,,"CHC Chas (Sector-8 & Co- Operative Colony), Block Chas",23.624456,86.1781576
+4,1430,1430,43,2018,Jharkhand,Dhanbad,Dhanbad,38,0,24-10-2018 00:00,27-10-2018 00:00,  Sabji  bagan  and chalchali  dhora,23.8021527,86.4254924
+5,1578,1578,50,2018,Jharkhand,Dhanbad,Dhanbad,10,0,29-11-2018 00:00,," Bararee, Shamsher Nagar CHC
+Jora Pokhar Jharia",23.7048937,86.4237143
+6,684,684,45,2010,Jharkhand,East Singhbhum,Purbi Singhbhum,22,0,04-11-2010 00:00,,Jugsalai,22.759344,86.1904324
+7,701,701,46,2010,Jharkhand,East Singhbhum,Purbi Singhbhum,24,0,04-11-2010 00:00,,Bagbera  Sakchi,22.8047623,86.2028402
+8,545,545,41,2012,Jharkhand,East Singhbhum,Purbi Singhbhum,46,0,11-10-2012 00:00,12-10-2012 00:00,"Sonari ,Jamshedpur city, PHC Golmuri cum Jugsalai",22.7547046,86.2004355
+9,673,673,44,2012,Jharkhand,East Singhbhum,Purbi Singhbhum,73,0,11-10-2012 00:00,,"Jamshedpur , PHC Golmuri cum Jugsalai, East Singhbhum",22.759344,86.1904324
+10,1143,1143,33,2016,Jharkhand,East Singhbhum,Purbi Singhbhum,7,1,25-07-2016 00:00,,East Singhbhum,22.4866756,86.4996546
+11,1447,1447,44,2017,Jharkhand,East Singhbhum,Purbi Singhbhum,11,0,22-08-2017 00:00,30-10-2017 00:00,"   Musabani,   PHC Nawarang  Market,  Block  Narwa  Pahar",22.5149666,86.4575435
+12,1451,1451,44,2017,Jharkhand,East Singhbhum,Purbi Singhbhum,19,0,09-05-2017 00:00,,"   Chakulia,   SC  Bansole,  PHC Sardihia,   Block   Bankisole",22.4762938,86.7181216
+13,1452,1452,44,2017,Jharkhand,East Singhbhum,Purbi Singhbhum,5,1,08-07-2017 00:00,,"  Ghatshila,  SC  Gopalpur,  PHC Moubhandar,  Block  Galudih",22.590057,86.4693717
+14,1453,1453,44,2017,Jharkhand,East Singhbhum,Purbi Singhbhum,10,0,08-01-2017 00:00,,"  Potka,  SC  Rajdohwa,  PHC Juri, Kawali",22.625407,86.2241136
+15,1016,1016,25,2019,Jharkhand,East Singhbhum,Purbi Singhbhum,8,0,15-06-2019 00:00,15-06-2019 00:00,"Block  Jugsalai  Cum  Golmuri, East Singhbhum",22.7547046,86.2004355
+16,609,609,43,2010,Jharkhand,East Singhbum,Purbi Singhbhum,14,0,18-01-2010 00:00,22-10-2010 00:00, Sakchi,22.8047623,86.2028402
+17,633,633,44,2010,Jharkhand,East Singhbum,Purbi Singhbhum,35,0,18-01-2010 00:00,,Kadma,22.8042417,86.1672082
+18,1550,1550,48,2018,Jharkhand,Godda,Godda,16,0,28-11-2018 00:00,12-02-2018 00:00,"   Boarijore,   SC Boarijore,    PHC     Lohandia",25.0504007,87.3747871
+19,1434,1434,43,2019,Jharkhand,Godda,Godda,25,0,19-10-2019 00:00,26-10-2019 00:00,"Boarijore,   Lohandia,   St. Lukes   Health   Centre   Lalmatia",25.0576058,87.3655242
+20,1518,1518,46,2019,Jharkhand,Godda,Godda,23,0,11-12-2019 00:00,15-11-2019 00:00,"  Hirakhuthari,  SC Bhagaiya,  PHC  Thakurgangti,  Block  Meherma",25.2065019,87.3694607
+21,1543,1543,47,2019,Jharkhand,Godda,Godda,23,0,11-12-2019 00:00,,"Meherma   Thakurgangti,   Bhagaiya, Hirakhuthari",25.130101,87.4542046
+22,1392,1392,41,2019,Jharkhand,Khunti,Khunti,7,0,10-12-2019 00:00,10-12-2019 00:00,"SC  Pokla,  Charid,  Khunti Jantay,  Sirum,  Khunti  Balsingrah,  Rania,  Rania, Khunti  Konwa,  Binda  Murhu,  Khunti",22.9182841,84.9531416
+23,515,515,40,2012,Jharkhand,Pakur,Pakur,29,0,03-10-2012 00:00,05-10-2012 00:00,"Janakinagar,  SC  Anjana",24.6247296,87.8529306
+24,803,803,40,2015,Jharkhand,Pakur,Pakur,29,0,03-10-2012 00:00,05-10-2012 00:00,"Janakinagar,  SC  Anjana,  CHC  Pakur",24.6336908,87.8500644
+25,772,772,49,2015,Jharkhand,Pakur,Pakur,91,0,14-10-2015 00:00,,"Sangrampur,Pakur",24.6373827,87.8484168
+26,1403,1403,42,2016,Jharkhand,Pakur,Pakur,33,0,23-09-2016 00:00,," Sangrampur, CHC Pakur",24.6376991,87.8353474
+27,1488,1488,45,2019,Jharkhand,Ranchi,Ranchi,16,0,31-10-2019 00:00,,"Adelhatu,  Gwala  Toli, Hindpiri",23.4124575,85.327837
+28,1259,1259,37,2016,Jharkhand,Sahebganj,Sahibganj,19,1,14-09-2016 00:00,16-09-2016 00:00,"APHC     Mizacholi (Loharpatti,   Gandhinagar,   Mirzachokibazaar, Nimgachi, Badtalla, Mahendram North)",25.2355588,87.6329824
+29,1424,1424,43,2016,Jharkhand,Sahebganj,Sahibganj,82,0,14-09-2016 00:00,,"    Loharpatti,    Gandhinagar, Mirzachokibazaar,   Nimgachi,   Badtalla,   Mahendram  North, APHC  Mizacholi",25.244284,87.63046
+30,1508,1508,46,2017,Jharkhand,Sahebganj,Sahibganj,20,0,11-02-2017 00:00,,"   Addullapur,   Sarpada,   CHC Barharwa",24.854636,87.7676
+31,1026,1026,26,2017,Jharkhand,SaraikelaKhars awan,Saraikela-kharsawan,8,0,22-06-2017 00:00,07-01-2017 00:00,"  Mangalam  City, PHC  Adityapur,  CHC  Gamhariya",22.8089663,86.1199623
+32,1489,1489,45,2019,Jharkhand,Sariakela Kharsawan,Saraikela-kharsawan,7,0,22-10-2019 00:00,," Cherugoda Adityapur, Plaseldih Chhota  Gamhariya,  Adityapur,  Majhi  Tola   and  Tulumtand, CHC     Gamhariya,     Nimdih     Seraikella",22.8112642,86.110889
+33,1490,1490,34,2022,Jharkhand,Sahebganj,Sahebganj,1,0,25-08-2022,," Barhait,  District Sahibganj",24.858159,87.774201
+34,1491,1491,36,2022,Jharkhand,Sahebganj,Sahebganj,7,0,09-02-2022,09-06-2022,"Srikund, Subcentre Srikund",24.858159,87.774201
+35,1492,1492,43,2022,Jharkhand,Dumka,Dumka,3,0,22-10-2022,28-10-2022,Rasikpur,24.2872,87.2556

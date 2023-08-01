@@ -1,0 +1,31 @@
+id1,id,SL,week,year,state,city,disctrict,cases,death,st_date,end_date,location,lat,lon
+1,897,897,18,2016,Rajasthan,Ajmer,Ajmer,105,0,04-05-2016 00:00,,"  Arwad,  PHC  Goyla, Block  Bhinani",26.581269,74.834466
+2,368,368,34,2015,Rajasthan,Alwar,Alwar,55,1,18-08-2015 00:00,,"Sarkanpur, Mundana",27.9869189,76.7935605
+3,873,873,16,2016,Rajasthan,Alwar,Alwar,35,0,21-04-2016 00:00,26-04-2016 00:00,"   Ukasi,  SC  Adoli, CHC     Jatwada,     BlockKherli",27.322713,77.080383
+4,1203,1203,35,2016,Rajasthan,Alwar,Alwar,115,0,24-08-2016 00:00,,"   Mubarikpur,   Block Ramgarh",27.7023184,76.8562405
+5,1436,1436,43,2019,Rajasthan,Alwar,Alwar,37,0,25-10-2019 00:00,25-10-2019 00:00,"  Ratnpura,  PHC Karana,  Block Bansur",27.6875968,76.3522772
+6,1494,1494,45,2019,Rajasthan,Alwar,Alwar,60,0,11-01-2019 00:00,," Nagalibhawana, SC Jadala, PHC Bhatukala,   Block   Kherli",27.2057342,77.037573
+7,149,149,20,2015,Rajasthan,Baran,Baran,202,1,14-05-2015 00:00,14-05-2015 00:00,"Sorsen,Mirjapur",25.0131811,76.3492569
+8,616,616,42,2011,Rajasthan,Bharatpur,Bharatpur,17,0,14-10-2011 00:00,,"Bhadira, PHC Paharsar, Block Nadbai",27.215247,77.1958661
+9,874,874,16,2016,Rajasthan,Bharatpur,Bharatpur,64,0,17-04-2016 00:00,23-04-2016 00:00," Tyohari, SC Umrein, CHC    Weir,    Block    Bhusawar",27.1297557,77.029292
+10,1389,1389,41,2018,Rajasthan,Bikaner,Bikaner,9,0,10-08-2018 00:00,10-11-2018 00:00,Nokha Town,27.5562169,73.4731871
+11,611,611,42,2010,Rajasthan,Dhaulpur,Dhaulpur,3,0,08-09-2010 00:00,,"Khanpura (PHC Sarani Khera),Dholpur",26.6233973,77.6528241
+12,635,635,44,2010,Rajasthan,Dhaulpur,Dhaulpur,12,0,08-09-2010 00:00,,"Khanpura ,Sarani Khera,Dholpur",26.7017469,77.7981274
+13,744,744,48,2010,Rajasthan,Dhaulpur,Dhaulpur,5,0,09-11-2010 00:00,,"Sakhwara, PHC Mania",26.6913087,77.8944987
+14,1463,1463,44,2018,Rajasthan,Ganganagar,Ganganagar,126,4,10-11-2018 00:00,,"  nai  mandi,  mahtab  colony, Block  Gharsana",29.0281642,73.0707089
+15,1341,1341,40,2016,Rajasthan,Hanumangarh,Hanumangarh,130,0,10-05-2016 00:00,10-06-2016 00:00," Ward No 9 & Ward No  11  Bhatta  colony  Hanumangarh  Junction, Block Hanumangarh",29.6310401,74.3126008
+16,561,561,40,2012,Rajasthan,Kota,Kota,55,70,06-10-2012 00:00,,"Kumbhkot,  PHC Julmi,  Block  Chehat",24.6259896,76.0014712
+17,560,560,40,2012,Rajasthan,Kota,Kota,0,0,05-10-2012 00:00,,"Kumbhkot,  PHC Julmi,  Block  Chehat",24.6259896,76.0014712
+18,554,554,40,2012,Rajasthan,Kota,Kota,2103,2,29-09-2012 00:00,,"Kumbhkot,  PHC Julmi,  Block  Chehat",24.5884258,75.988412
+19,555,555,40,2012,Rajasthan,Kota,Kota,0,0,30-09-2012 00:00,," Kumbhkot,  PHC Julmi,  Block  Chehat",24.5884258,75.988412
+20,369,369,34,2015,Rajasthan,Kota,Kota,65,0,18-08-2015 00:00,,Kota,25.2138156,75.8647527
+21,1261,1261,37,2016,Rajasthan,Kota,Kota,8,1,09-01-2016 00:00,,"  Railway  colony  Station  Area,  PHC Purohitjiki tapir Kota City",25.2104885,75.8883941
+22,556,556,40,2012,Rajasthan,Kota,Kota,0,0,01-10-2012 00:00,,"Kumbhkot,  PHC Julmi,  Block  Chehat",24.5884258,75.988412
+23,558,558,40,2012,Rajasthan,Kota,Kota,0,0,03-10-2012 00:00,,"Kumbhkot,  PHC Julmi,  Block  Chehat",24.5884258,75.988412
+24,1584,1584,51,2017,Rajasthan,Nagaur,Nagaur,30,0,10-04-2017 00:00,,"  Harijan  Basti  Nagaur,  SC  New Teliwara    Naya    Darwaja,    Block    Teliwara",27.2044722,73.7292568
+25,1313,1313,39,2016,Rajasthan,Nagaur,Nagaur,9,0,19-09-2016 00:00,," Peer ki Dargah, Nadi Chouk, Makarana  City",27.0421278,74.7292356
+26,557,557,40,2012,Rajasthan,Kota,Kota,0,0,02-10-2012 00:00,," Kumbhkot,  PHC Julmi,  Block  Chehat",24.6259896,76.0014712
+27,601,601,41,2015,Rajasthan,Bharatpur,Bharatpur,8,0,05-10-2015 00:00,,"Bamanwas,  SC Salarpur,  Jivad,  Block Gangapur City",26.6037899,76.5585226
+28,148,148,19,2014,Rajasthan,Tonk,Tonk,24,0,28-04-2014 00:00,,"Hathona,  Parana",24.8177476,75.8795378
+29,559,559,40,2012,Rajasthan,Kota,Kota,0,0,04-10-2012 00:00,," Kumbhkot,  PHC Julmi,  Block  Chehat",24.5884258,75.988412
+30,5560,5560,29,2022,Rajasthan,Pratapgarh,Pratapgarh,11,0,16-07-2022,,"Cases reported from Village-Sakthal, SC- Kachotiya, PHC- Suhagpura,  Block-Pipalkhunt,  District  Pratapgarh.  Cases presented with fever and generalized body ache. 23 blood samples were sent for lab analysis to RNT Medical College, Udaipur  and  out  of  them,  11  blood  samples  were  found positive   for   Dengue   by   IgM   ELISA.   District   RRT investigated  the  outbreak.  Survey  of  the  area  was  done. Fogging  and  spraying  was  done.  Breeding  sources  were eliminated.   Local   fever   camp   was   established.   Health education  was  given regarding  the  importance  of  vector control measures.",24.0317,74.7787
